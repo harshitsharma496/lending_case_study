@@ -1,5 +1,5 @@
-# FINANCE COMPANY Loan Case study 
-> We look out for factor taken into account while loan will get defaluted 
+# FINANCE COMPANY (Loan Case study) 
+> We look out for factor taken into account while our given loan will get defaluted 
 
 
 ## Contents
@@ -8,7 +8,7 @@
 
 
 ## General Information
-- We have data and various factors while giving loan are considered.
+- We have data consist of various factors while giving loan are considered.
 - We were trying to get key factors which should consider to know lender likely be a defaulter
 
 
