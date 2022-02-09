@@ -13,11 +13,11 @@
 
 
 ## Conclusions
-- Average income in all account is a factor
-- Purpose of loan is a factor to be consider reduced amount  
-- Previous bankruptcies is a factor to consider risky applicant 
-- People with long employement has a bad record
- -Folks with having a rented home have a bad debt to income ratio
+- Average income in all account is a factor determining a defaulter
+- Purpose of loan is a factor to be consider in dertermining to give a reduced amount loan 
+- Previous bankruptcies is a factor to considered a applicant to be a risky applicant 
+- People with long employement record has a worse grade should be considered as risky applicant
+ -Folks with having a rented home have a bad debt to income ratio should be considered as reduced amount loan
 
 ## Contact
 Created by [https://github.com/harshitsharma496] - feel free to contact me!
